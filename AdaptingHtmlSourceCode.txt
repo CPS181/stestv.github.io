@@ -1,0 +1,16 @@
+How to use another webpage's layout and style
+1. Create an html file and CSS file and store in the same directory. 
+2. Open desired webpage and click ctrl-U on keyboard or right click and press 'View source code'
+3. Copy all of the html code [ctrl-A ctrl-C]
+4. Open your html file and paste code [ctrl-V]
+5. Examine the <head> section of the html. If there is a link to a .css file or file(s), follow it and copy and paste the CSS
+code into your CSS file. 
+6.
+The name of the CSS file should exactly match the href value. Below, your CSS file should be named style.css. 
+If there is a directory in the filepath, the simplest appraoch is to remove it.  
+    <link href='style.css' media='screen' rel='stylesheet' type='text/css' />
+7. Edit html code to place your own personal info into the page and then open the page in your browser.
+Paste html file's full path in address bar. 
+
+Next tutorial: How to host a static web page (let the world see your personal website) using github. 
+

@@ -1,0 +1,8 @@
+1. Log into Github (sign up if you don't have one).
+2. Create a new repo and name it using the following pattern
+  replacewithyourusername.github.io
+[!!!!Github will not host your website unless you use this naming convention!!!!]
+Make sure to initalize repo with a readme file!!! [Check the box]
+3. Simplest approach is to upload file via the repo's page. Just hit the 'Upload Button'
+4. Your page's address will follow the naming convention of the repo.
+   Just type into browser's address bar: replacewithyourusername.github.io
